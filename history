@@ -1,0 +1,52 @@
+    1  ip -4 addr
+    2  w
+    3  sudo update db
+    4  sudo updatedb
+    5  locate vim | grep bin
+    6  sudo apt-get update sudo apt-get update
+    7  sudo apt-get upgrade 
+    8  cd /etc/
+    9  ls passwd
+   10  vim passwd
+   11  sudo adduser ralf
+   12  vim passwd
+   13  ls
+   14  vim passwd
+   15  set no
+   16  vim tutor
+   17  G
+   18  vim passwd
+   19  ls skel/
+   20  cd skel/
+   21  sudo dmesg > sistema.log
+   22  sudo touch sistema.loco
+   23  echo 
+   24  echo "hola usuario nuevo"
+   25  echo "hola usuario nuevo" > sistema.loco
+   26  sudo adduser l6uk
+   27  su leuk -
+   28  su - leuk 
+   29  su - l6uk 
+   30  exit
+   31  lscpu
+   32  less /proc/cpuinfo 
+   33  dmesg | head > file1.txt
+   34  dmesg | tail -n 15 >> file1.txt
+   35  dmesg | tail -n 15 >> file2
+   36  mv 1.html index.html
+   37  touch test1/file3
+   38  touch /test1/file3
+   39  mkdir test1
+   40  touch /test1/file3
+   41  touch test1/file3
+   42  cd ..
+   43  ls -l
+   44  logout
+   45  exit
+   46  sudo apt-get install git
+   47  mkdir LX1_cesar
+   48  cd LX1_cesar
+   49  ls
+   50  git init
+   51  ls -l
+   52  history > history
